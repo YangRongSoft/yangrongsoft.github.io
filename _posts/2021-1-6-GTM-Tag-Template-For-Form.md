@@ -13,6 +13,6 @@ Insert the GTM code into website and it can be automatically display the form.
 
 ### RELEASE NOTES
 
-Date  | Changeset 
----|---
-6 January 2021| Initial release.
+|Date  | Changeset |
+|---|---|
+|6 January 2021| Initial release.|
