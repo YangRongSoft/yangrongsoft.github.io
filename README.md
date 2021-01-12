@@ -1,7 +1,7 @@
 
 # YangRongSoft
 
-*Forked by Jekyll ([Jekyll Repository](https://github.com/jekyll/jekyll))
+Forked by Jekyll now([Jekyll Repository](https://github.com/jekyll/jekyll))
 
 **Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
 
