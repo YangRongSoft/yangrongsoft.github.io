@@ -1,4 +1,4 @@
 
 # YangRongSoft
 
-Forked From Jekyll Now([Jekyll Now](barryclark/jekyll-now))
+Forked From Jekyll Now([Jekyll Now](https://github.com/barryclark/jekyll-now))
